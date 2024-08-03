@@ -1,3 +1,4 @@
+# fix windows lxml installation error
+lxml=5.0.0
 requests
-lxml
 fake_useragent
